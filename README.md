@@ -1,5 +1,5 @@
 
-___ Hello Word, I'm Carlos Gonçalves. ___
+___ Hello World, I'm Carlos Gonçalves. ___
 
  <Sou estudante de Tecnologia da informação, estou em busca de construir uma carreira solida!
 Me apaixonei por essa area.
